@@ -21,7 +21,7 @@ We decided to run K-Means with k=4 based on the Elbow Curve Method line beginnin
 
 We can see the clusters clearly in this 3D scatterplot created from the clustered data
 
-![3D scatterplot graph](/Resources/3D_scatterplot.png)
+![3D scatterplot graph](/Resources/3d_scatterplot.png)
 
 I then created a selectable and sortable table using the hvplot.table method of the clustered data 
 
