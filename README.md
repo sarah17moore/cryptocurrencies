@@ -32,6 +32,6 @@ Finally, we scale the clustered data to scale "TotalCoinSupply" and "TotalCoinsM
 After scaling, we plot the scaled data to view "Class" (this is the prediction of classification of the cryptocurrency), "CoinName" (the name of the cryptocurrency), "TotalCoinsMined" (number of coins mined of this crypto type), and "TotalCoinSupply" (reported total number of crypto units) all on one graph.
 
 ![Final scatterplot](/Resources/scatterplot.png)
-* This is the final product of the machine learning model clustering *
+*This is the final product of the machine learning model clustering*
 
 After viewing this image, we can see that class 2 (yellow) has mined it's supply completely. Classes 0, 1, and 3 all vary in the amounts of total coins mined versus total coins supplied. I would recommend diversifing one's investment portfolio by buying stocks within class 0 (blue) and class 3 (green) to ensure supply and ability to mine is optimized. More information should be gathered on outliers within class 3 (green) and on differences in class 1 (red). 
